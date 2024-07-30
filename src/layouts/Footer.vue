@@ -28,6 +28,20 @@
     >
       <img src="https://zeabur.com/deployed-on-zeabur-dark.svg" />
     </a>
+
+    <div class="divider">|</div>
+
+    <a href="https://beian.miit.gov.cn/#/Integrated/index" 
+       rel="noopener external nofollow noreferrer noopener" target="_blank">
+       <span>豫ICP备2023024848号</span>          
+    </a>
+
+    <div class="divider">|</div>
+    
+    <a href="http://www.beian.gov.cn/portal/registerSystemInfo" 
+       rel="noopener external nofollow noreferrer noopener" target="_blank">
+       <span>豫公网安备41112102000178号</span>          
+    </a>
   </footer>
 </template>
 
